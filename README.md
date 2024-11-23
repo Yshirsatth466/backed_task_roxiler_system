@@ -69,5 +69,5 @@ Make sure MongoDB is running locally or configure the connection URL accordingly
 
 ## Contact
 For any questions or contributions, feel free to reach out to:
-- [Your Name]  
-- [Your Email Address]
+- yash shirsath
+- yshirsath466@gmail.com
